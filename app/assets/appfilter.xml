@@ -6575,4 +6575,21 @@
   <item component="ComponentInfo{com.zgkb.android.twint/ch.twint.payment.ui.activities.start.StartActivity}" drawable="zugerkb_twint" name="ZugerKB TWINT" />
   <item component="ComponentInfo{com.zulipmobile/com.zulipmobile.MainActivity}" drawable="zulip" name="Zulip" />
   <item component="ComponentInfo{org.daimhim.zzzfun/org.daimhim.zzzfun.ui.SplashActivity}" drawable="zzzfun" name="zzzfun" />
+  <item component="ComponentInfo{at.oebb.ts/at.oebb.ts.SplashActivity}" drawable="oebb" name="ÖBB" />
+  <item component="ComponentInfo{com.utorrent.client/com.bittorrent.app.Main}" drawable="utorrent" name="µTorrent" />
+  <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartTheme.Charcoal}" drawable="compass_rapps" name="Сompass by R.Apps" />
+  <item component="ComponentInfo{com.yandex.iot/ru.yandex.searchplugin.MainActivity}" drawable="umniy_dom" name="Умный Дом" />
+  <item component="ComponentInfo{com.ertelecom.smarthome/com.ertelecom.smarthome.feature.auth.launch.presentation.LaunchActivity}" drawable="umniy_dom_ru" name="Умный Дом.ру" />
+  <item component="ComponentInfo{jp.co.dwango.nicocas/jp.co.dwango.nicocas.ui.RootActivity}" drawable="niconico" name="ニコ生" />
+  <item component="ComponentInfo{info.ebstudio.bookviewer.free/info.ebstudio.bookviewer.free.BookViewerActivity}" drawable="readfriend_lite" name="読書尚友 Lite" />
+  <item component="ComponentInfo{ru.fieldtest.modemcaps/a.am}" drawable="qct_modem_capabilities" name="Qct Modem" />
+  <item component="ComponentInfo{xyz.chz.bfm/xyz.chz.bfm.ui.activity.MainActivity}" drawable="box_manager" name="Box Manager" />
+  <item component="ComponentInfo{com.dstukalov.watelegramstickers/com.dstukalov.watelegramstickers.StickerPacksActivity}" drawable="unofficial_telegram_stickers_for_whatsapp" name="Sticker For WhatsApp" />
+	<item component="ComponentInfo{flar2.exkernelmanager/a.a}" drawable="ex_kernel_manager" name="Ex Kernel Manager" />
+	<item component="ComponentInfo{top.qwq2333.nullgram/org.telegram.messenger.DefaultIcon}" drawable="nullgram" name="Nullgram" />
+	<item component="ComponentInfo{com.vng.sea.metalslug/com.tencent.msgame.GameStartActivity}" drawable="metal_slug_awakening" name="Metal Slug Awakening" />
+	<item component="ComponentInfo{com.lemurbrowser.exts/com.google.android.apps.chrome.Main}" drawable="lemur_browser" name="Lemur Browser" />
+	<item component="ComponentInfo{com.gameark.ggplay.lonsea/com.kunlun.flower.MainActivity}" drawable="neverland" name="Neverland" />
+	<item component="ComponentInfo{com.gopeed/com.gopeed.MainActivity}" drawable="gopeed" name="Gopeed" />
+	<item component="ComponentInfo{pdf.reader.pdfviewer.pdfeditor/pdf.reader.pdfviewer.pdfeditor.ui.act.SplashActivity}" drawable="pembaca_pdf_hi_read" name="pembaca pdf" />
 </resources>
