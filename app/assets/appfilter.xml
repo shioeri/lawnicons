@@ -54,7 +54,6 @@
   <item component="ComponentInfo{com.twentyfourpay/com.twentyfourpay.screens.splashScreen.SplashScreenActivity}" drawable="twentyfourpay" name="24pay" />
   <item component="ComponentInfo{com.twofasapp/com.twofasapp.ui.main.StartActivity}" drawable="twofas_auth" name="2FAS Auth" />
   <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="doublegis" name="2GIS" />
-  <item component="ComponentInfo{app.fourequalsten.fourequalsten_app/app.fourequalsten.fourequalsten_app.MainActivity}" drawable="410" name="4=10" />
   <item component="ComponentInfo{ru.fourpda.client/ru.fourpda.client.MainActivity}" drawable="fourpda" name="4PDA" />
   <item component="ComponentInfo{ru.fourpda.client/ru.fourpda.MainActivity}" drawable="fourpda" name="4PDA" />
   <item component="ComponentInfo{com.secure56.app/com.android56.app.splash.SplashActivity}" drawable="secure_56" name="56 Secure" />
@@ -2860,7 +2859,6 @@
   <item component="ComponentInfo{com.jndapp.line.x.iconpack/com.jndapp.line.x.iconpack.MainActivity}" drawable="linex" name="LineX" />
   <item component="ComponentInfo{com.lingodeer/com.lingo.lingoskill.ui.base.SplashActivity}" drawable="lingodeer" name="LingoDeer" />
   <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="microsoft_link" name="Link to Windows" />
-  <item component="ComponentInfo{com.telkom.mwallet/com.linkaja.customer.MainActivity}" drawable="linkaja" name="LinkAja" />
   <item component="ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}" drawable="linkedin" name="LinkedIn" />
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" name="LinkedIn" />
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.PreInstallLaunchActivity}" drawable="linkedin" name="LinkedIn" />
@@ -2877,7 +2875,6 @@
   <item component="ComponentInfo{com.litatom.app/com.lit.app.ui.SplashActivity}" drawable="litmatch" name="Litmatch" />
   <item component="ComponentInfo{com.example.retouchephoto/com.example.litrato.activities.MainActivity}" drawable="photo_editor" name="Litrato" />
   <item component="ComponentInfo{com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity}" drawable="live_transcribe" name="Live Transcribe" />
-  <item component="ComponentInfo{com.circles.selfcare.id/com.circles.selfcare.v2.splash.LaunchActivity}" drawable="liveon" name="Live.On" />
   <item component="ComponentInfo{com.pavostudio.live2dviewerex/com.pavostudio.exlib.wallpaper.LiveWallpaperActivity}" drawable="live2dviewerex" name="Live2DViewerEX" />
   <item component="ComponentInfo{me.livechart.android/me.livechart.android.ui.MainActivity}" drawable="livechartme" name="LiveChart.me" />
   <item component="ComponentInfo{com.riotgames.league.wildriftvn/com.tencent.lolm.lgame}" drawable="wild_rift" name="LMHT: Toc Chien" />
@@ -4152,6 +4149,8 @@
   <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainActivity}" drawable="picsart" name="Picsart" />
   <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart" name="Picsart" />
   <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.StartActivity}" drawable="picsart" name="Picsart" />
+  <item component="ComponentInfo{com.Shinycore.picsay/com.Shinycore.picsay.main}" drawable="picsay" name="Picsay" />
+  <item component="ComponentInfo{com.Shinycore.picsaypro/com.Shinycore.picsaypro.main}" drawable="picsaypro" name="Picsay Pro" />
   <item component="ComponentInfo{com.sorincovor.pigments/com.sorincovor.pigments.MainActivity}" drawable="pigments" name="Pigments" />
   <item component="ComponentInfo{com.pikcloud.pikpak/com.pikcloud.app.SplashActivity}" drawable="pikpak" name="PikPak" />
   <item component="ComponentInfo{com.diune.pictures/com.diune.pikture_ui.ui.main.MainActivity}" drawable="piktures" name="Piktures" />
