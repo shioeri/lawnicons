@@ -54,6 +54,7 @@
   <item component="ComponentInfo{com.twentyfourpay/com.twentyfourpay.screens.splashScreen.SplashScreenActivity}" drawable="twentyfourpay" name="24pay" />
   <item component="ComponentInfo{com.twofasapp/com.twofasapp.ui.main.StartActivity}" drawable="twofas_auth" name="2FAS Auth" />
   <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="doublegis" name="2GIS" />
+  <item component="ComponentInfo{app.fourequalsten.fourequalsten_app/app.fourequalsten.fourequalsten_app.MainActivity}" drawable="fourequalsten" name="4=10" />
   <item component="ComponentInfo{ru.fourpda.client/ru.fourpda.client.MainActivity}" drawable="fourpda" name="4PDA" />
   <item component="ComponentInfo{ru.fourpda.client/ru.fourpda.MainActivity}" drawable="fourpda" name="4PDA" />
   <item component="ComponentInfo{com.secure56.app/com.android56.app.splash.SplashActivity}" drawable="secure_56" name="56 Secure" />
@@ -1592,6 +1593,7 @@
   <item component="ComponentInfo{pk.com.telenor.phoenix/pk.com.telenor.phoenix.views.home.SplashActivity}" drawable="easypaisa" name="Easypaisa" />
   <item component="ComponentInfo{pk.com.telenor.phoenix/pk.com.telenor.phoenix.views.home_rewamp.activity.HomeActivityMain}" drawable="easypaisa" name="Easypaisa" />
   <item component="ComponentInfo{net.easypark.android/net.easypark.android.mvp.splash.SplashActivity}" drawable="easypark" name="EasyPark" />
+  <item component="ComponentInfo{com.vivo.easyshare/com.vivo.easyshare.activity.SplashScreenActivity}" drawable="easyshare" name="EasyShare" />
   <item component="ComponentInfo{com.done.faasos/com.done.faasos.activity.SplashActivity}" drawable="eatsure" name="EatSure" />
   <item component="ComponentInfo{com.easydiner/com.appstreet.eazydiner.activity.SplashActivity}" drawable="eazydiner" name="EazyDiner" />
   <item component="ComponentInfo{com.ebase.banking/com.ebase.app.banking.ebase_banking_app.MainActivity}" drawable="ebasebanking" name="ebaseBanking" />
@@ -2859,6 +2861,7 @@
   <item component="ComponentInfo{com.jndapp.line.x.iconpack/com.jndapp.line.x.iconpack.MainActivity}" drawable="linex" name="LineX" />
   <item component="ComponentInfo{com.lingodeer/com.lingo.lingoskill.ui.base.SplashActivity}" drawable="lingodeer" name="LingoDeer" />
   <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="microsoft_link" name="Link to Windows" />
+  <item component="ComponentInfo{com.telkom.mwallet/com.linkaja.customer.MainActivity}" drawable="linkaja" name="LinkAja" />
   <item component="ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}" drawable="linkedin" name="LinkedIn" />
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" name="LinkedIn" />
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.PreInstallLaunchActivity}" drawable="linkedin" name="LinkedIn" />
