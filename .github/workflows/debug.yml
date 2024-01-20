@@ -1,0 +1,35 @@
+name: Build Debug APK
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  build-debug-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+          
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: 17
+
+      - name: Prepare prebuild
+        run: |
+          chmod +x gradlew
+          ./gradlew svg-processor:run
+
+      - name: Build Debug APK
+        run: |
+          ./gradlew --no-daemon app:assembleDebug
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: DebugAPK
+          path: app/build/outputs/apk/app/debug/*.apk

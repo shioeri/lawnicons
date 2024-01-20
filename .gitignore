@@ -7,6 +7,7 @@ build
 captures
 .externalNativeBuild
 .cxx
+.gitmessage
 keystore.properties
 app/src/dark
 app/src/light
