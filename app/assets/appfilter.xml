@@ -13307,4 +13307,5 @@
   <item component="ComponentInfo{com.AgainstGravity.RecRoom/com.recroom.googleplaynative.SignInActivity}" drawable="rec_room" name="Rec Room" />
   <item component="ComponentInfo{ru.fieldtest.modemcaps/a.am}" drawable="qct_modem_capabilities" name="Qct Modem" />
   <item component="ComponentInfo{xyz.chz.bfm/xyz.chz.bfm.ui.activity.MainActivity}" drawable="box_manager" name="Box Manager" />
+	<item component="ComponentInfo{com.shopeepay.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shoppepay" name="Shopee Pay" />
 </resources>
